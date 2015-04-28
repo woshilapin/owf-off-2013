@@ -186,7 +186,7 @@ produits en français
 
 44
 00:02:25,669 --> 00:02:28,629
-Ca fonctionne parce que c'est
+Ca fonctionne parce que ce sont
 des données d'intérêt public
 
 45
@@ -208,7 +208,7 @@ parce qu'elles font attention à leur santé ou au cholestérol
 
 49
 00:02:38,869 --> 00:02:43,489
-ou à l''huile de palme…
+ou à l'huile de palme…
 
 50
 00:02:43,489 --> 00:02:46,849
@@ -226,7 +226,7 @@ c'est de décrypter les étiquettes
 
 53
 00:02:51,179 --> 00:02:56,329
-comme tous ces petits codes E330 E150d…c'est les codes pour les
+comme tous ces petits codes E330, E150d, etc… c'est les codes pour les
 
 54
 00:02:56,329 --> 00:02:57,269
@@ -405,7 +405,7 @@ sucré, c'est trop salé.
 
 95
 00:04:48,430 --> 00:04:55,430
-En 2011, il y a beaucoup d'ecologistes et d'autres, les associations de consommateurs qui ont essayé de faire passer ça au parlement européen…
+En 2011, il y a beaucoup d'écologistes et d'autres, les associations de consommateurs qui ont essayé de faire passer ça au parlement européen…
 
 96
 00:04:56,110 --> 00:04:59,810
@@ -516,7 +516,7 @@ qu'on mange,
 121
 00:06:09,139 --> 00:06:12,219
 je considère que c'est des données
-tellement importantes qu'elles doit être
+tellement importantes qu'elles doivent être
 
 122
 00:06:12,219 --> 00:06:14,229
@@ -542,7 +542,7 @@ de l'alimentation,
 127
 00:06:23,930 --> 00:06:28,460
 et souvent, elles aussi, elles veulent
-bien que vous scannez des produits et
+bien que vous scanniez des produits et
 
 128
 00:06:28,460 --> 00:06:30,889
@@ -617,7 +617,7 @@ Morbihan.
 
 144
 00:07:13,849 --> 00:07:17,139
-Donc on peut aller positionner sur une carte de france où sont
+Donc on peut aller positionner sur une carte de France où sont
 
 145
 00:07:17,139 --> 00:07:18,300
@@ -639,7 +639,7 @@ donc dans notre usine
 
 149
 00:07:26,849 --> 00:07:31,580
-il y a des haricots et des carottes de marques Daucy, c'est l'usine
+il y a des haricots et des carottes, etc… de marque Daucy, c'est l'usine
 
 150
 00:07:31,580 --> 00:07:35,209
@@ -697,12 +697,12 @@ dans mon litre de jus de bananes
 ou de jus d'ananas, il y a 45 petits sucres
 
 162
-00:08:09,889 --> 00:08:13,650
-Voilà, j'en ai fini ma
+00:08:09,889 --> 00:08:15,650
+Voilà, j'en ai fini de ma
 présentation. On a un wiki, tout est ouvert,
 
 163
-00:08:13,650 --> 00:08:17,740
+00:08:15,650 --> 00:08:17,740
 il y a le code de l'application sur GitHub
 
 164
@@ -717,7 +717,7 @@ iPhone ou Android, je vous invite à
 166
 00:08:21,789 --> 00:08:24,499
 à installer l'application pour participer
-vous aussi:
+vous aussi :
 
 167
 00:08:24,499 --> 00:08:28,099
@@ -731,13 +731,11 @@ et tout plein de choses
 169
 00:08:29,240 --> 00:08:31,629
 
-
 170
 00:08:31,629 --> 00:08:32,579
 
-
 171
-00:08:32,579 --> 00:08:36,249
+00:08:24,499 --> 00:08:36,249
 et je suis au-dessus au stand Open Food Facts et j'aurai grand plaisir à vous en
 
 172
@@ -753,8 +751,9 @@ Merci beaucoup !
 Merci Stéphane, une petite question peut-être avant d'aller manger ?
 
 175
-00:08:50,910 --> 00:08:52,790
-- Je trouve l'idée très bonne
+00:08:46,310 --> 00:08:52,790
+Je suis passée tout à l'heure à votre stand et j'ai vu un peu, j'ai installé l'appli
+je trouve que l'idée est très bonne
 
 176
 00:08:52,790 --> 00:08:57,170
@@ -767,7 +766,7 @@ remplir les informations ?
 
 178
 00:09:00,830 --> 00:09:03,950
-est-ce que vous avez des idées , une petite gamification,
+est-ce que vous avez des idées, une petite gamification,
 
 179
 00:09:03,950 --> 00:09:07,250
@@ -785,7 +784,7 @@ de personnes
 182
 00:09:12,550 --> 00:09:17,180
 qui sont intéressées ou
-motivées par des les choses différentes
+motivées par des choses différentes
 
 183
 00:09:17,180 --> 00:09:21,270
@@ -804,7 +803,7 @@ exemple
 186
 00:09:26,029 --> 00:09:30,290
 Aller ajouter…la mission "Armoire à
-glace", il faut aller ajouter plein de glaces
+glace", il faut aller chercher plein de glaces
 
 187
 00:09:30,290 --> 00:09:32,900
@@ -840,7 +839,7 @@ mangent, ça peut être intéressant.
 
 194
 00:09:51,260 --> 00:09:54,750
-Après, il y a toutes les personnes qui font attention parce qu'elles sont une raison
+Après, il y a toutes les personnes qui font attention parce qu'elles ont une raison
 
 195
 00:09:54,750 --> 00:09:58,690
@@ -922,11 +921,11 @@ pour un maximum de raisons.
 
 213
 00:10:44,160 --> 00:10:47,460
-Mais il y a du travail:
+Mais il y a du travail :
 
 214
 00:10:47,460 --> 00:10:50,970
-on a pas 7 personnes à plein-temps
+on n'a pas 7 personnes à plein-temps
 
 215
 00:10:50,970 --> 00:10:55,660
@@ -943,7 +942,7 @@ tous plein de domaines
 
 218
 00:11:01,400 --> 00:11:04,860
-pour faire des applications plus sexy
+pour faire des applications plus sexy,
 plus ludiques
 
 219
@@ -1100,7 +1099,7 @@ et qui ont un peu de temps pour essayer de les mettre en pratique avec nous.
 
 254
 00:12:57,630 --> 00:13:03,250
-- Dernière question je pense et après on va manger
+- Merci Stéphane, une dernière question je pense et après on va manger
 
 255
 00:13:03,250 --> 00:13:09,690
@@ -1142,7 +1141,7 @@ spontanément
 
 264
 00:13:32,500 --> 00:13:37,320
-Il y a Lobodis en bretagne qui fait
+Il y a Lobodis en Bretagne qui fait
 du commerce équitable, surtout
 
 265
@@ -1209,14 +1208,13 @@ pour l'Open Knowledge Conference
 279
 00:14:16,360 --> 00:14:18,150
 
-
 280
 00:14:18,150 --> 00:14:19,950
-That's what we need
+Voilà, c'est cela qu'il faut
 
 281
 00:14:19,950 --> 00:14:22,340
-to do.
+qu'on fasse.
 
 282
 00:14:22,340 --> 00:14:28,980
