@@ -171,175 +171,188 @@ under Open Database Licence.
 
 41
 00:02:18,249 --> 00:02:20,989
-
+A word on crowdsourcing:
+it's working well
 
 42
 00:02:20,989 --> 00:02:23,949
-
+because one year and a half later,
+we went over 10.000
 
 43
 00:02:23,949 --> 00:02:25,669
-
+products in French
 
 44
 00:02:25,669 --> 00:02:28,629
-
+It's working because it's
+data of public interest
 
 45
 00:02:28,629 --> 00:02:31,310
-
+There is a lot of people today which are
+careful about
 
 46
 00:02:31,310 --> 00:02:32,899
-
+what they are eating
 
 47
 00:02:32,899 --> 00:02:35,909
-
+because theyre alergic or intolerant to gluten
 
 48
 00:02:35,909 --> 00:02:38,869
-
+because they are careful about their health or about cholesterol
 
 49
 00:02:38,869 --> 00:02:43,489
-
+or about palm oil...
 
 50
 00:02:43,489 --> 00:02:46,849
-
+Well what could be the use of a
+database with information on
 
 51
 00:02:46,849 --> 00:02:47,779
-
+food?
 
 52
 00:02:47,779 --> 00:02:51,179
-
+The first use, the most obvious one
+is to decrypt the labels
 
 53
 00:02:51,179 --> 00:02:56,329
-
+like all these codes E330, E150d, etc... it's code about
 
 54
 00:02:56,329 --> 00:02:57,269
-
+additives.
 
 55
 00:02:57,269 --> 00:02:59,019
-
+There is about 2.000...
 
 56
 00:02:59,019 --> 00:03:02,469
-
+and most of people know about... zero.
 
 57
 00:03:02,469 --> 00:03:07,159
-
+Well we can then do very
+easily, it's to say E150d,
 
 58
 00:03:07,159 --> 00:03:11,199
-
+it's the colorant which is in your
+coca-cola, it's caramel and
 
 59
 00:03:11,199 --> 00:03:14,829
-
+the complete name which is not on the label, is sulfite ammonia caramel
 
 60
 00:03:14,829 --> 00:03:18,939
-
+and it has been put, in Californa, on the list of
 
 61
 00:03:18,939 --> 00:03:20,889
-
+carcinogenic chemical substances
 
 62
 00:03:20,889 --> 00:03:22,009
-
+better to avoid it then...
 
 63
 00:03:22,009 --> 00:03:24,639
-
+Coca removed it from the US market.
 
 64
 00:03:24,639 --> 00:03:28,679
-
+but in our location, in Europe, we still have this Coca-Cola with
 
 65
 00:03:28,679 --> 00:03:31,019
-
+sulfite ammonia caramel
 
 66
 00:03:31,019 --> 00:03:34,579
-
+Here, on the example, it's Fraise Tagada (Tagada strawberry)
 
 67
 00:03:34,579 --> 00:03:37,909
-
+where there is not at all the word fraise (strawberry)
+written on the wrapping because
 
 68
 00:03:37,909 --> 00:03:39,349
-
+there isn't any in it.
 
 69
 00:03:39,349 --> 00:03:42,919
-
+However, there is cochineal, it's E120, it's a
 
 70
 00:03:42,919 --> 00:03:44,389
-
+red colorant.
 
 71
 00:03:44,389 --> 00:03:48,059
-
+and it's extract - I discovered this doing the project -
 
 72
 00:03:48,059 --> 00:03:51,019
-
+which is extracted from cochineal insect, some small insects which are farmed on
 
 73
 00:03:51,019 --> 00:03:52,119
-
+cactus in Mexico.
 
 74
 00:03:52,119 --> 00:03:55,569
-
+You squeeze your little insects, and then you have some cochineal juice
 
 75
 00:03:55,569 --> 00:03:59,079
-
+and it's allow you to color your
+candies but also the taramasalata
 
 76
 00:03:59,079 --> 00:04:02,359
-
+because taramasalata is made of cod eggs which are unfortunately gray...
 
 77
 00:04:02,359 --> 00:04:05,309
-
+so if we add a drop of
+red colorant inside, some cochineal juice
 
 78
 00:04:05,309 --> 00:04:07,599
-
+it become pink, of course, it's much more pleasant
 
 79
 00:04:07,599 --> 00:04:09,450
-
+and we indeed realize,
 
 80
 00:04:09,450 --> 00:04:11,620
-
+looking in our
+database, that we can look for all of
 
 81
 00:04:11,620 --> 00:04:13,199
-
+the products that contain
 
 82
 00:04:13,199 --> 00:04:15,439
-
+this carminic acid, this carmin
 
 83
 00:04:15,439 --> 00:04:18,590
-
+and there is some in plenty of things we
+wouldn't suspect
 
 84
 00:04:18,590 --> 00:04:19,750
@@ -347,15 +360,16 @@ under Open Database Licence.
 
 85
 00:04:19,750 --> 00:04:23,060
-
+the saucissons, for them to be more red, we put some juice of
 
 86
 00:04:23,060 --> 00:04:26,170
-
+cochineal inside, the rind of
+cheese which is orange
 
 87
 00:04:26,170 --> 00:04:31,199
-
+it's some yellow colorant with red colorant
 
 88
 00:04:31,199 --> 00:04:31,970
@@ -363,147 +377,158 @@ under Open Database Licence.
 
 89
 00:04:31,970 --> 00:04:34,069
-
+Well, something
 
 90
 00:04:34,069 --> 00:04:37,029
-
+I like and which is
+interesting on
 
 91
 00:04:37,029 --> 00:04:38,870
-
+labels, in UK,
 
 92
 00:04:38,870 --> 00:04:42,210
-
+there is what we call the tricolored nutrition facts
 
 93
 00:04:42,210 --> 00:04:45,440
-
+it's showing you immediately with
+red, orange and green labels
 
 94
 00:04:45,440 --> 00:04:48,430
-
+be careful, there is too much fat, there is too much
+sugar, there is too much salt.
 
 95
 00:04:48,430 --> 00:04:55,430
-
+In 2011, there was a lot of ecologists and consumers groups which have tried to propose this to the European parliament
 
 96
 00:04:56,110 --> 00:04:59,810
-
+but there has been a huge lobby from
+the industry
 
 97
 00:04:59,810 --> 00:05:03,370
-
+of food who didn't want
+to put a red flag
 
 98
 00:05:03,370 --> 00:05:05,069
-
+on a bag of chips.
 
 99
 00:05:05,069 --> 00:05:07,520
-
+So it has been rejected in 2011.
 
 100
 00:05:07,520 --> 00:05:11,089
-
+However, it's a thing that we can easily display
 
 101
 00:05:11,089 --> 00:05:14,179
-
+well this is a new application
+that I am currently
 
 102
 00:05:14,179 --> 00:05:15,089
-
+implementing
 
 103
 00:05:15,089 --> 00:05:16,629
-
+where we
 
 104
 00:05:16,629 --> 00:05:21,270
-
+put our mobile phone in front of
 
 105
 00:05:21,270 --> 00:05:22,319
-
+any product
 
 106
 00:05:22,319 --> 00:05:25,189
-
+and we can then show some information like for example these
 
 107
 00:05:25,189 --> 00:05:29,180
-
+tricolored nutrition facts.
 
 108
 00:05:29,180 --> 00:05:31,940
-
+When you have a database of
+products, it's also tempting, of course,
 
 109
 00:05:31,940 --> 00:05:36,240
-
+to compare products between themselves and to compare to averages
 
 110
 00:05:36,240 --> 00:05:39,680
-
+on my ketchup, it's written 30% less of sugar.
 
 111
 00:05:39,680 --> 00:05:40,900
-
+Is this true?
 
 112
 00:05:40,900 --> 00:05:43,389
-
+That the kind of things we can check:
 
 113
 00:05:43,389 --> 00:05:46,009
-
+Here, I show you a graphic
 
 114
 00:05:46,009 --> 00:05:48,509
-
+where I choose to display every sodas
 
 115
 00:05:48,509 --> 00:05:51,830
-
+with sugar on one axis and additives on the other
 
 116
 00:05:51,830 --> 00:05:55,439
-
+and you can go on the OpenFoodFacts.org website and choose
 
 117
 00:05:55,439 --> 00:05:59,119
-
+with a few clicks, you can have the
+same graphic with charcuterie and
 
 118
 00:05:59,119 --> 00:06:05,180
-
+the fat and the salt for example.
 
 119
 00:06:05,180 --> 00:06:06,569
-
+Well, all of this
 
 120
 00:06:06,569 --> 00:06:09,139
-
+these data, these data on
+what we're eating,
 
 121
 00:06:09,139 --> 00:06:12,219
-
+I think that this is data
+so much important that they must be
 
 122
 00:06:12,219 --> 00:06:14,229
-
+public, they must be available,
 
 123
 00:06:14,229 --> 00:06:17,860
-
+so that's why we have, we have
+we have created this
 
 124
 00:06:17,860 --> 00:06:19,589
-
+database.
 
 125
 00:06:19,589 --> 00:06:22,739
