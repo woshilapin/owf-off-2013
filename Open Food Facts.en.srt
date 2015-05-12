@@ -150,11 +150,11 @@ nutrition facts, every little information
 
 36
 00:02:01,260 --> 00:02:03,810
-and we put them all in a databae
+and we put them all in a database
 
 37
 00:02:03,810 --> 00:02:07,160
-Today, there is almost 700 contributors
+Today, there are almost 700 contributors
 
 38
 00:02:07,160 --> 00:02:10,379
@@ -233,7 +233,7 @@ additives.
 
 55
 00:02:57,269 --> 00:02:59,019
-There is about 2.000...
+There are about 2.000...
 
 56
 00:02:59,019 --> 00:03:02,469
@@ -582,7 +582,7 @@ of reuse:
 136
 00:06:51,509 --> 00:06:54,529
 this is a website called "C'est fabriqué près de chez vous"
-(this is built next door)
+(made near me)
 
 137
 00:06:54,529 --> 00:06:58,309
@@ -608,7 +608,7 @@ so 56081 it's not a postal code but it's INSEE code of the municipality
 142
 00:07:09,389 --> 00:07:12,819
 well we can now know that it's
-produced in Thaix in
+produced in Theix in
 
 143
 00:07:12,819 --> 00:07:13,849
@@ -616,7 +616,7 @@ Morbihan.
 
 144
 00:07:13,849 --> 00:07:17,139
-Well we can look soemwhere on the France map where are
+Well we can look somewhere on the France map where are
 
 145
 00:07:17,139 --> 00:07:18,300
@@ -634,7 +634,7 @@ factory
 148
 00:07:23,210 --> 00:07:26,849
 well in our factory
-in Thaix, in Morbihan
+in Theix, in Morbihan
 
 149
 00:07:26,849 --> 00:07:31,580
