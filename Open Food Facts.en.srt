@@ -532,159 +532,177 @@ database.
 
 125
 00:06:19,589 --> 00:06:22,739
-
+There is a lot of startup that has been launched on this topic
 
 126
 00:06:22,739 --> 00:06:23,930
-
+of food,
 
 127
 00:06:23,930 --> 00:06:28,460
-
+and often, they wanted you
+to scan the products and
 
 128
 00:06:28,460 --> 00:06:30,889
-
+that you send them some photos but after, they keep
 
 129
 00:06:30,889 --> 00:06:34,060
-
+the data for themselves, it's like their
+war chest, it's what they
 
 130
 00:06:34,060 --> 00:06:35,460
-
+try to make business with
 
 131
 00:06:35,460 --> 00:06:37,690
-
+well us, it's a non-profit-making
+project
 
 132
 00:06:37,690 --> 00:06:40,880
-
+we have nothing to monetize and on the contrary, we
+take full benefit of having these data
 
 133
 00:06:40,880 --> 00:06:41,919
-
+being
 
 134
 00:06:41,919 --> 00:06:47,479
-
+useful and used for as many applications as possible.
 
 135
 00:06:47,479 --> 00:06:51,509
-
+I'll show you some examples
+of reuse:
 
 136
 00:06:51,509 --> 00:06:54,529
-
+this is a website called "C'est fabriqué près de chez vous"
+(this is built next door)
 
 137
 00:06:54,529 --> 00:06:58,309
-
+it's done with these little codes which are
+on food products that we
 
 138
 00:06:58,309 --> 00:06:59,860
-
+call packaging code
 
 139
 00:06:59,860 --> 00:07:01,719
-
+it's looks like
 
 140
 00:07:01,719 --> 00:07:05,389
-
+EMB 56081 E
 
 141
 00:07:05,389 --> 00:07:09,389
-
+so 56081 it's not a postal code but it's INSEE code of the municipality
 
 142
 00:07:09,389 --> 00:07:12,819
-
+well we can now know that it's
+produced in Thaix in
 
 143
 00:07:12,819 --> 00:07:13,849
-
+Morbihan.
 
 144
 00:07:13,849 --> 00:07:17,139
-
+Well we can look soemwhere on the France map where are
 
 145
 00:07:17,139 --> 00:07:18,300
-
+produced these products.
 
 146
 00:07:18,300 --> 00:07:21,129
-
+and then, what's fun, it's to look at all the other
 
 147
 00:07:21,129 --> 00:07:23,210
-
+products that are produced by the same
+factory
 
 148
 00:07:23,210 --> 00:07:26,849
-
+well in our factory
+in Thaix, in Morbihan
 
 149
 00:07:26,849 --> 00:07:31,580
-
+there is beans and carots, etc. from Daucy brand, it's the factory
 
 150
 00:07:31,580 --> 00:07:35,209
-
+of Daucy, but it's producing also
+food for all the other brands
 
 151
 00:07:35,209 --> 00:07:38,889
-
+that are distributors.
 
 152
 00:07:38,889 --> 00:07:42,680
-
+this is a small pedagogical game
+with data that we gather
 
 153
 00:07:42,680 --> 00:07:45,050
-
+where the goal of the game is: we show you a
+product
 
 154
 00:07:45,050 --> 00:07:47,110
-
+and you try to find
 
 155
 00:07:47,110 --> 00:07:49,120
-
+the equivalent number of 
+lump sugar
 
 156
 00:07:49,120 --> 00:07:52,889
-
+and sometimes you can be very stunned of
+the quantity of sugar in
 
 157
 00:07:52,889 --> 00:07:54,270
-
+some food.
 
 158
 00:07:54,270 --> 00:07:56,800
-
+Soda, of course yes, we think
+that it's sugary
 
 159
 00:07:56,800 --> 00:07:59,909
-
+however, fruit juices we may know a little less that it's
 
 160
 00:07:59,909 --> 00:08:04,039
-
+as sugary as the sodas and that
+in my liter of banana juice
 
 161
 00:08:04,039 --> 00:08:09,889
-
+or pinapple juice, there is 45 litte lump sugar
 
 162
 00:08:09,889 --> 00:08:15,650
-
+That's it, I'm done with my
+presentation.  We have a wiki, everything is open,
 
 163
 00:08:15,650 --> 00:08:17,740
-
+the source code of the software is on Github
 
 164
 00:08:17,740 --> 00:08:18,539
