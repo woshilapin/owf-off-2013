@@ -21,7 +21,7 @@ everyday lives and that companies produce.
 
 6
 00:00:24,220 --> 00:00:27,929
-There is one particualry interesting domain, it's
+There is one particularly interesting domain, it's
 
 7
 00:00:27,929 --> 00:00:31,160
@@ -131,7 +131,7 @@ Open Food Facts is a database,
 
 32
 00:01:46,890 --> 00:01:49,860
-based on sililar principle to Wikipedia
+based on similar principle to Wikipedia
 
 33
 00:01:49,860 --> 00:01:54,380
@@ -240,7 +240,7 @@ and most people know ... none.
 
 57
 00:03:02,469 --> 00:03:07,159
-What we can easly do, 
+What we can easily do,
 it's to say E150d
 
 58
@@ -254,7 +254,7 @@ the complete name which is not on the label, is sulfite ammonia caramel
 
 60
 00:03:14,829 --> 00:03:18,939
-in Californa, is is now on the list of
+in California, is now on the list of
 
 61
 00:03:18,939 --> 00:03:20,889
@@ -270,7 +270,7 @@ Coca Cola removed the E150d from the US market.
 
 64
 00:03:24,639 --> 00:03:28,679
-but for us, in Europe, we still have this Coca-Cola with
+but for us, in Europe, we still have this Coca Cola with
 
 65
 00:03:28,679 --> 00:03:31,019
@@ -463,11 +463,11 @@ products, it's also tempting, of course,
 
 109
 00:05:31,940 --> 00:05:36,240
-to compare between products, to compare my ketshup
+to compare between products, to compare my ketchup
 
 110
 00:05:36,240 --> 00:05:39,680
-to the avarage ketshups, it's written 30% less of sugar.
+to the average ketchups, it's written 30% less of sugar.
 
 111
 00:05:39,680 --> 00:05:40,900
@@ -557,7 +557,7 @@ try to make business with
 
 131
 00:06:35,460 --> 00:06:37,690
-while well us, we area  non-profit
+while well us, we area non-profit
 project
 
 132
@@ -664,7 +664,7 @@ and you try to find
 
 155
 00:07:47,110 --> 00:07:49,120
-their suger equivalent in  
+their sugar equivalent in  
 in number of sugar cubes
 
 156
